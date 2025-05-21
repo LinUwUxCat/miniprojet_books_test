@@ -3,6 +3,6 @@
 Avec intellij, eclipse ou maven : `mvn compile`
 
 ## Executer les tests
-Avec intellij ou eclipse
+Avec intellij ou eclipse ou maven : `mvn test`
 
 
